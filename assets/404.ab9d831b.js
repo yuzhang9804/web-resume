@@ -1,0 +1,1 @@
+import{E as e,c as r,o as c}from"./app.5da5e409.js";import"./yamlWorker.07b904b3.js";import"./monaco.6907ec32.js";const o={};function t(n,a){return c(),r("h1",null,"404")}var l=e(o,[["render",t]]);export{l as default};

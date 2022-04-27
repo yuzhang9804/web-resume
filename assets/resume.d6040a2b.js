@@ -1,0 +1,1 @@
+import{E as r,c as t,l as o,j as a,o as c}from"./app.5da5e409.js";import"./yamlWorker.07b904b3.js";import"./monaco.6907ec32.js";const s={},n={class:"text-gray-700 dark:text-gray-200"};function _(m,i){const e=a("router-view");return c(),t("main",n,[o(e)])}var f=r(s,[["render",_]]);export{f as default};
